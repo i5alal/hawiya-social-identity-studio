@@ -340,9 +340,9 @@ CREATE POLICY "Users can insert own brand_kits"
 
 ## 📧 التواصل
 
-- **المطور**: YOUSSIF
+- **المطور**: YOUSSIF | 2026
 - **GitHub**: [@i5alal](https://github.com/i5alal)
-- **Portfolio**: [youssif.design](https://youssif.design)
+- **TeleGram**: [@i5alal](https://t.me/i5alal)
 
 ---
 
