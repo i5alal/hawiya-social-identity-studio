@@ -1,35 +1,26 @@
 # 🎨 Hawiya - Social Identity Studio
 
-A complete Arabic-first brand identity studio for social media platforms, built with Next.js, Tailwind CSS, and Supabase.
-
-## Stack
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Supabase Auth
-- Fabric.js
-- shadcn/ui patterns
+A modern Arabic-first brand identity studio for social platforms built with Next.js, TypeScript, Tailwind CSS, Supabase, and Fabric.js.
 
 ## Features
 
-- Social media identity generator
-- RTL Arabic-first UX
-- Brand kit styling
-- Platform presets for Instagram, X, LinkedIn
-- Auth flow for login/signup
-- Studio canvas editor
+- Arabic RTL landing experience
+- Social media canvas studio
+- Platform-size presets for Instagram, X, LinkedIn
+- Authentication flow with Supabase
+- Design editor and export actions
 
-## Local development
+## Getting started
 
 ```bash
 npm install
+cp .env.example .env.local
 npm run dev
 ```
 
 Open http://localhost:3000
 
-## Production
+## Production build
 
 ```bash
 npm run build
